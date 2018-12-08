@@ -64,8 +64,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        &copy; 2017 <a href="index.php" target="_blank" href="#" title="Bid War Bd">Bid War Bd</a>. All Rights Reserved.
-                        <p>Design &amp; Developed By <a href="https://www.facebook.com/ashiq201" target="blank_">Ashiqul Islam Shaon
+                        &copy; 2018 <a href="index.php" target="_blank" href="#" title="Bid War Bd">Bid War Bd</a>. All Rights Reserved.
+                        <p>Design &amp; Developed By <a href="https://www.facebook.com/jahed.bd.7" target="blank_">Ashiqul Islam Shaon
                             and Jahed Bin Yousuf</a></p>
                     </div>
                 </div>
